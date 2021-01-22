@@ -158,3 +158,12 @@ body {
     text-align: center;
     padding-top: 30px;
 }
+
+.aviso--gigante {
+    font-size: 70px;
+    font-weight: bold;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
